@@ -19,8 +19,8 @@ For each continent:
 - **Calculate the mean, standard deviation, minimum, and maximum** number of confirmed cases daily for **each week**.
 - The statistics will focus on the **100 states most affected** by the pandemic. If a state is not indicated, the country will be considered instead.
 - To determine the **most affected states**, we will use the **trendline coefficient** based on the **slope of the regression line**, which estimates the trend of daily increases in confirmed cases.
-![GITHUB](Images/Linear_Regression_Slope_of_each_Province.png)
 - The **continent** to which each state/country belongs is not explicitly stated in the dataset, so it will be identified manually. We consider six continents: **Africa, America, Antarctica, Asia, Europe, and Oceania**.
+![GITHUB](Images/Linear_Regression_Slope_of_each_Province.png)
 
 ### 3. Clustering the 50 Most Affected States
 For each month in the dataset:
